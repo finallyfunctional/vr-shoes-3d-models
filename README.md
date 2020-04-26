@@ -6,3 +6,5 @@ The vr-shoe is a "shoe" or platform that straps to each of your feet. The shoes 
 
 The the vr shoes, along with a vr headset and saftey harness, are intended to be used while playing a vr game so that you can walk infintely in the game while staying in the same spot physically.
 
+The design file is for [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software).
+
