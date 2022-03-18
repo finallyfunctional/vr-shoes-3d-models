@@ -1,1 +1,1 @@
-This rig is a WIP and not finished.
+Build guide coming soon.
