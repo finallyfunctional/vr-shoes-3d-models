@@ -1,1 +1,0 @@
-Build instructions can be [found here](https://hackaday.io/project/182344/instructions). Parts and Tools can be [found here](https://docs.google.com/spreadsheets/d/1oKewkSRZit6C5nvCVRL6rPIMimhU8IUWNQw7vL5Zhbs/edit?usp=sharing).
